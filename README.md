@@ -1,3 +1,5 @@
+# install
+
 ```javascript
 npm install sync-state-lite
 ```
